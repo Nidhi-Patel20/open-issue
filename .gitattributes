@@ -1,2 +1,2 @@
 dist/** -diff linguist-generated=true 
-/DAmico/Custom Forms/Java_Util/MFS/MappingFormScripter.jar filter=lfs diff=lfs merge=lfs -text
+/DAmico/[Custom Forms]/Java_Util/MFS/MappingFormScripter.jar filter=lfs diff=lfs merge=lfs -text
